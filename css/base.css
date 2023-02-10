@@ -1,0 +1,13 @@
+:root {
+    --primary: #8E2DBB;
+    --on-primary: #ffffff;
+    --primary-container: #EED7F9;
+    --on-primary-container: #2F0F3E;
+
+    --error: #B3261E;
+    --on-error: #FFFFFF;
+    --error-container: #F9DEDC;
+    --on-error-container: #410E0B;
+
+    
+}
